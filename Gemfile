@@ -36,6 +36,7 @@ group :development, :test do
   gem 'byebug'
   gem 'rspec-rails', '~> 3.0'
   gem 'capybara'
+  gem 'puma', '~> 3.4'
   gem 'selenium-webdriver'
   gem 'poltergeist'
 end
